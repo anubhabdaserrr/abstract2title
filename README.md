@@ -7,10 +7,10 @@ Final Year Project.
 HITK, July 2022.
 
 Collaborators/ Team Members :
-Anubhab Das [Team Leader]
-Koushani Karmakar
-Ankita Rooj
-Abhishek Sen
+Anubhab Das [Team Leader],
+Koushani Karmakar,
+Ankita Rooj,
+Abhishek Sen.
 
 Guide : Prof. (Dr.) Sujay Saha
 
